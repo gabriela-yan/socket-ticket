@@ -1,6 +1,10 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es una aplicación de colas haciendo uso de sockets.
+
+La aplicación se encuentra cargada en el servidor de Heroku para realizar pruebas. 
+
+https://socket-tickets.herokuapp.com/publico.html
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
