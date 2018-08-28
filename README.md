@@ -1,6 +1,6 @@
 # Notas:
 
-Este es una aplicación de colas haciendo uso de sockets.
+Esta es una aplicación de colas haciendo uso de sockets.
 
 La aplicación se encuentra cargada en el servidor de Heroku para realizar pruebas. 
 
